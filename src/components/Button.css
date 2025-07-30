@@ -1,0 +1,26 @@
+.btn-orange{
+    background-color: #ff7526;
+    color: rgb(255, 255, 255);
+    font-family: Manrope, Helvetica, sans-serif;
+    font-weight: bold;
+    border-radius: 10px;
+    border-style: none;
+    width: 137px;
+    height: 50px;
+    padding: 12px 36px;
+    font-size: 16px;
+    cursor: pointer;
+    font-weight: 600;
+    text-wrap: nowrap;
+
+    
+}
+
+.btn-orange:hover{
+    background-color: #E45400;
+    transition: all .3s;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    transition-property: all;
+}

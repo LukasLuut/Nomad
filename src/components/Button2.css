@@ -1,0 +1,25 @@
+.btn-orange2{
+    border: solid rgba(0, 0, 0, 0.096) 1px;
+    font-family: Manrope, Helvetica, sans-serif;
+    font-weight: 600;
+    border-radius: 10px;    
+    width: 140px;
+    height: 50px;
+    font-size: 16px;
+    background-color: white;
+    padding: 12px 36px;
+    cursor: pointer;
+    color: black;
+    text-wrap: nowrap;
+
+}
+
+.btn-orange2:hover{
+    background-color: #E45400;
+    color: white;
+    transition: all .3s;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    transition-property: all;
+}
